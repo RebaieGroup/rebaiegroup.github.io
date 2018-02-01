@@ -3,13 +3,13 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "text": "Data Aurora",
-    "file": "http://pocacito.eu/sites/default/files/partner/logo/undp.jpg",
-    "link": "http://www.undp.org/"
+    "text": "Rebaie Analytics Group",
+    "file": "",
+    "link": ""
   },
   "text": {
-    "title": "Data Aurora",
-    "more": "Data Aurora is collecting data from different jobsites and open data sources and parsing the data, using a tailor-made data scraper. Setting the baseline would allow us to measure the progress of the indicator in the future. Furthermore, as during the SI Camp ‘the\nlack of skills’ was named as one of the challenges faced by the local youth pursuing employment, the insights from the data analysis would allow for creating a visual map of the skills requested by\nemployers. More than 15000 jobs were scraped for the 2nd, 3rd, and 4th quarter of 2016 from different job portals in UAE. The period oj job postings are Q2, Q3, Q4 of 2016.",
+    "title": "Rebaie Analytics Group",
+    "more": "Rebaie Analytics Group is collecting data from different jobsites and open data sources and parsing the data, using a tailor-made data scraper. Setting the baseline would allow us to measure the progress of the indicator in the future. Furthermore, as during the SI Camp ‘the\nlack of skills’ was named as one of the challenges faced by the local youth pursuing employment, the insights from the data analysis would allow for creating a visual map of the skills requested by\nemployers. More than 15000 jobs were scraped for the 2nd, 3rd, and 4th quarter of 2016 from different job portals in UAE. The period oj job postings are Q2, Q3, Q4 of 2016.",
     "intro": "Mapping of the Skills Needed By Employers in The UAE. "
   },
   "legend": {
